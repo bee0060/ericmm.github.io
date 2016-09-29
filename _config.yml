@@ -1,12 +1,12 @@
 # Site settings
 title: "Thoughts & ideas..."
-email: jun.liu.aus@gmail.com
+#email:
 description: > # this means to ignore newlines until "baseurl:"
   "My Tech Blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ericmm.github.io/" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Jun
+author: ericmm
 #twitter:
 #  username:
 
@@ -26,8 +26,8 @@ avatar: /assets/img/site-avatar.png
 favicon: /assets/icon/site-favicon.ico
 
 # disqus config
-#disqus:
-#  shortname: ericmm
+disqus:
+  shortname: ericmm
 
 # google analytics config
 #ga:
